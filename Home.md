@@ -93,6 +93,7 @@ Please refer to [AliOS Things Technical Overview](AliOS-Things-Technical-Overvie
 - [MW31硬件设计手册](MW31硬件设计手册)
 - [MW31模块boot文件更新以及程序升级指导](MW31_Upgrade_Guide)
 - [MW31 wifi模块升级文档(更新)](wifi_upgrade_guide.md)
+- [AliOS Things 3.0 AT模组驱动开发指南](AliOS-Things-3.0-AT模组驱动一站式开发指南)
 
 ## [Certification](Certification-Home)
 
